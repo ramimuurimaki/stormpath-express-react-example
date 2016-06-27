@@ -1,6 +1,10 @@
 # Stormpath React + Express Fullstack Example Project
 
-This repository is an example fullstack web application, using React on the
+
+This repository is a copy from https://github.com/stormpath/stormpath-express-react-example
+Just a sandbox project to study React and Node.js
+
+This is an example fullstack web application, using React on the
 front-end and Express.js as your back-end server.  It uses [express-stormpath][]
 and [stormpath-sdk-react][] to authenticate users, protect your server API,
 and render default login and registration screens in your React application.
